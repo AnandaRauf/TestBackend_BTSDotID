@@ -2,7 +2,7 @@ Cara running web server dan Testing Api:
 
 1. [Download Python](https://www.python.org/downloads/)
 2. Install Python and then setting Environment variabel Path System: contoh path python C:\Python388\Scripts dan C:\Python388\ copy paste ke Env Var path system
-3. Aktifkan Virtual Machine Env ketik di cmd dalam root folder project: cd TestBackend_BTSDotID kemudian ketik cd Scripts dan setelah itu ketik activate.bat
+3. Buat dan Aktifkan Virtual Machine Env ketik di cmd dalam root folder project: perintah cmd Buat Virtual Machine Env: python -m venv nama virtualmachine_env,perintah aktifkan virtual machine env cd nama_virtualmachine_env kemudian ketik cd Scripts dan setelah itu ketik activate.bat
 4. Ketik cd .. untuk mengarahkan kembali ke path root project
 5. Ketik cd .. untuk mengarahkan kembali ke path root project
 6. Kemudian install library dengan ketik di cmd: pip install -r requirements.txt
